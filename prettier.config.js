@@ -1,12 +1,12 @@
 const options = {
-  arrowParens: 'avoid',
+  arrowParens: "avoid",
   singleQuote: true,
   backetSpacing: true,
-  endOfLine: 'lf',
+  endOfLine: "lf",
   semi: true,
   tabWidth: 2,
-  trailingComma: 'es5',
-  printWidth: 100,
-}
+  trailingComma: "es5",
+  printWidth: 80,
+};
 
-module.exports = options
+module.exports = options;
